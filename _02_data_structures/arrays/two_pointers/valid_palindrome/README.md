@@ -13,7 +13,7 @@ A string is a palindrome if it reads the same forward and backward, after conver
 
 ### Example 2:
 
-**Input:** `s = "race a car"`
+**Input:** `s = "raceacar"`
 **Output:** `false`
 
 ---
